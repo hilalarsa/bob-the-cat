@@ -1,0 +1,26 @@
+{
+  "name": "bob-the-cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilalarsa/bob-the-cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilalarsa/bob-the-cat/issues"
+  },
+  "homepage": "https://github.com/hilalarsa/bob-the-cat#readme"
+}
